@@ -1,3 +1,4 @@
+import 'package:cause_effect/detail_page.dart';
 import 'package:flutter/material.dart';
 
 import 'data/people.dart';
@@ -19,6 +20,11 @@ class _HomePageState extends State<HomePage> {
         itemBuilder: (BuildContext ctx, int index) {
           return ListTile(
             title: Text(people[index].name),
+            onTap: () {
+              Navigator.push(context, MaterialPageRoute(builder: (context) {
+                return DetailPage(people[index]);
+              }));
+            },
           );
         },
         scrollDirection: Axis.vertical,
