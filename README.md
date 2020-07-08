@@ -1,16 +1,14 @@
-# cause_effect
+# CauseEffect
 
-A new Flutter project.
+A begginer project from [florinpop17](https://github.com/florinpop17/)'s list made using Flutter. The simple goal in this project is to display a list of names, and as the user taps on any of the names, the app retrieves data such as city, state, country and other personal info for each person on the list, then show the retrieved data dynamically on an adjacent page.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<p>
+<img src="https://i.imgur.com/yTdAaTS.png" alt="First Screenshot" width="10%" height="10%"/>
+<img src="https://i.imgur.com/uqOMvyN.png" alt="First Screenshot" width="10%" height="10%"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## Reference
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [CauseEffect](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Cause-Effect-App.md)
