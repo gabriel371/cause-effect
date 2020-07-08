@@ -19,6 +19,7 @@ class _HomePageState extends State<HomePage> {
         itemCount: people.length,
         itemBuilder: (BuildContext ctx, int index) {
           return ListTile(
+            leading: Icon(Icons.person),
             title: Text(people[index].name),
             onTap: () {
               Navigator.push(context, MaterialPageRoute(builder: (context) {
