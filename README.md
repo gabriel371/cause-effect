@@ -6,7 +6,7 @@ A begginer project from [florinpop17](https://github.com/florinpop17/)'s list ma
 
 <p>
 <img src="https://i.imgur.com/yTdAaTS.png" alt="First Screenshot" width="10%" height="10%"/>
-<img src="https://i.imgur.com/uqOMvyN.png" alt="First Screenshot" width="10%" height="10%"/>
+<img src="https://i.imgur.com/uqOMvyN.png" alt="Second Screenshot" width="10%" height="10%"/>
 </p>
 
 ## Reference
